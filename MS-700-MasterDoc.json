@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "MS-700 : Managing-Microsoft-Teams",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M01_ak.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M02_ak.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M03_ak.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M04_ak.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M05_ak.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-700-Managing-Microsoft-Teams/master/Instructions/Labs/MS-700-lab_M06_ak.md",
+        "Order": 6
+      }
+    ]
+  }
+]
